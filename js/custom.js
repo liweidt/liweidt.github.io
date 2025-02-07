@@ -44,3 +44,10 @@ function myMap() {
     };
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
 }
+
+function showInfo() {
+    const ele = document.querySelectorAll('.none-showed');
+    ele.forEach(e => {
+        e.classList.add('showed');
+    });
+}
