@@ -1,6 +1,11 @@
-function switchproductType() {
-    const p = document.getElementById('p_type');
-    switch (p.value) {
+function switchproductType(name_type) {
+    if (name_type == "soft") {
+        var search_key = document.getElementById('s_type');
+    } else {
+        var search_key = document.getElementById('p_type');
+    } 
+    
+    switch (search_key.value) {
         case 'pc': return '/json/product.json';
         case 'monitor': return '/json/monitor.json';
         case 'laptop': return '/json/laptop.json';
@@ -8,6 +13,18 @@ function switchproductType() {
         case 'graphics': return '/json/graphics.json';
         case 'notepad': return '/json/notepad.json';
         case 'camera': return '/json/camera.json';
+        case 'drawing': return '/json/drawing.json';
+        case 'virtual': return '/json/virtual.json';
+        case 'sec_iden': return '/json/sec_iden.json';
+        case 'sec_net': return '/json/sec_net.json';
+        case 'sec_end': return '/json/sec_end.json';
+        case 'sec_info': return '/json/sec_info.json';
+        case 'sec_host': return '/json/sec_host.json';
+        case 'sec': return '/json/sec.json';
+        case 'sec_file': return '/json/sec_file.json';
+        case 'ai': return '/json/ai.json';
+        case 'microsoft': return '/json/microsoft.json';
+        case 'free': return '/json/free.json';
         default: return '';
     }
 }
@@ -110,6 +127,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     document.getElementById('p_type').addEventListener('change', async () => {
         const data = await fetch(switchproductType());
+        if (!data.ok) throw new Error('資料載入失敗');
+        allData = await data.json();
+        renderPage(currentPage, allData, tb);
+    })
+
+    document.getElementById('s_type').addEventListener('change', async () => {
+        const data = await fetch(switchproductType('soft'));
         if (!data.ok) throw new Error('資料載入失敗');
         allData = await data.json();
         renderPage(currentPage, allData, tb);
