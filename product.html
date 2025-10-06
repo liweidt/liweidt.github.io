@@ -169,35 +169,44 @@
         </section> -->
         <!-- end slider section -->
     </div>
+
+
+<main class="container">
     <h2 style="text-align: center; margin-bottom: 30px;margin-top: 30px;">共約清單</h2>
-    <form>
-        <select name="p_type" id="p_type">
-            <option value="pc" selected>個人電腦主機</option>
-            <option value="monitor">螢幕顯示器</option>
-            <option value="laptop">筆記型電腦</option>
-            <option value="minipc">精簡型電腦</option>
-            <option value="graphics">圖形顯示卡</option>
-            <option value="notepad">平板電腦</option>
-            <option value="camera">數位相機&攝影機</option>
-        </select>
-        <select name="s_type" id="s_type">
-            <option value="drawing" selected>繪圖軟體</option>
-            <option value="virtual">虛擬軟體</option>
-            <option value="sec_iden">資安身分</option>
-            <option value="sec_net">資安網路</option>
-            <option value="sec_end">資安端點</option>
-            <option value="sec_info">資安訊息</option>
-            <option value="sec_host">資安主機</option>
-            <option value="sec">安全管理</option>
-            <option value="sec_file">資安檔案</option>
-            <option value="ai">人工智能</option>
-            <option value="microsoft">微軟軟體</option>
-            <option value="free">自由軟體</option>
-        </select>
-        <input type="text" id="search-input" placeholder="搜尋關鍵字">
-    </form>
+
+    <section style="margin-bottom:18px">
+	<div class="panel search-box" style="margin: 15px auto;text-align: center;">
+          <label for="hw"></label>
+          <select id="hw">
+            <option value="">— 請選擇商品分類 —</option>
+          </select>
+		
+          <label for="sw"></label>
+          <select id="sw" disabled>
+            <option value="">— 請先選擇商品分類 —</option>
+          </select>
+		
+		
+          <label for="q"></label>
+          <input id="q" type="text" placeholder="輸入型號、關鍵字、產地…">
+	</div>
+    </section>
+
+
+
+
     <div id="pagination" style="margin: 15px auto;text-align: center;"></div>
-    <table id="listTable" style="margin-bottom: 30px;"></table>
+
+    <!-- 桌機：表格（外層加水平捲動容器） -->
+    <div class="table-wrap" style="margin-bottom: 30px;">
+      <table id="listTable"></table>
+    </div>
+
+
+</main>
+
+
+ <table id="listTable" style="margin-bottom: 30px;"></table>
     <section class="info_section layout_padding2">
         <div class="container">
             <div class="row">
@@ -291,7 +300,196 @@
             </p>
         </div>
     </section>
-    <script src="product.js"></script>
+
+  <script>
+    // 年份與行動選單
+    const toggle = document.querySelector('.menu-toggle');
+    const menuEl = document.getElementById('menu');
+    if (toggle && menuEl) toggle.addEventListener('click', () => menuEl.classList.toggle('show'));
+
+    // 元件
+    const CATALOG_URL = '/json/json-file.txt'; // 絕對路徑，避免相對路徑差異
+    const $hw = document.getElementById('hw');        // 商品分類
+    const $sw = document.getElementById('sw');        // 組別
+    const $q  = document.getElementById('q');         // 模糊搜尋
+    const $table = document.getElementById('listTable');
+    const $pager = document.getElementById('pagination');
+
+    // 資料儲存
+    let MAP = {};        // { category: [{ order, group, file }] }
+    let CAT_ORDER = [];  // 類別顯示順序
+    let rawData = [];    // 原始資料（已去掉標題列）
+    let viewData = [];   // 搜尋後
+    let pageSize = 20;
+    let page = 1;
+
+    // 動態欄位（重點）
+    let COLS = [];       // 欄位順序（key 陣列）
+    let HEADERS = [];    // 欄位標題（顯示文字）
+
+    // 事件
+    $hw.addEventListener('change', () => {
+      const cat = $hw.value;
+      if (cat) { populateGroup(cat); $sw.focus(); } else { populateCategory(); }
+    });
+    $sw.addEventListener('change', () => {
+      const opt  = $sw.options[$sw.selectedIndex];
+      const file = opt && opt.getAttribute('data-file');
+      if (file) fetchJSON('/json/' + file);
+    });
+    $q.addEventListener('input', debounce(applySearch, 150));
+
+    // 讀取階層目錄
+    async function loadCatalog(){
+      try{
+        const res = await fetch(CATALOG_URL, { cache: 'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const text = (await res.text()).replace(/^\uFEFF/, ''); // 去 BOM
+        MAP = {}; CAT_ORDER = [];
+        const lines = text.split(/\r?\n/);
+
+        for (const raw of lines) {
+          const line = raw.trim();
+          if (!line || line.startsWith('#') || line.startsWith('//')) continue;
+          // 格式：order;商品分類:xxx;組別:yyy;file.json（支援全形冒號）
+          const m = line.match(/^([^;]+)\s*;\s*商品分類[:：]\s*([^;]+?)\s*;\s*組別[:：]\s*([^;]+?)\s*;\s*([^;]+)\s*$/);
+          if (!m) { console.warn('無法解析的行：', line); continue; }
+
+          const [, order, cat, grp, file] = m;
+          if (!MAP[cat]) { MAP[cat] = []; CAT_ORDER.push(cat); }
+          MAP[cat].push({ order, group: grp, file });
+        }
+
+        // 依 order 排序
+        Object.keys(MAP).forEach(cat => MAP[cat].sort((a,b) => a.order.localeCompare(b.order)));
+
+        populateCategory();
+
+        // 預設載入第一個分類+組別
+        if (CAT_ORDER.length) {
+          const firstCat = CAT_ORDER[0];
+          $hw.value = firstCat;
+          populateGroup(firstCat);
+          const first = (MAP[firstCat] || [])[0];
+          if (first) { $sw.value = first.group; fetchJSON('/json/' + first.file); }
+        }
+      }catch(err){
+        console.error(err);
+        $hw.innerHTML = '<option value="">— 目錄讀取失敗 —</option>';
+        $sw.innerHTML = '<option value="">— 目錄讀取失敗 —</option>';
+        $sw.disabled = true;
+      }
+    }
+
+    function populateCategory(){
+      $hw.innerHTML = '<option value="">— 請選擇商品分類 —</option>' +
+        CAT_ORDER.map(cat => `<option>${safe(cat)}</option>`).join('');
+      $sw.innerHTML = '<option value="">— 請先選擇商品分類 —</option>';
+      $sw.disabled = true;
+    }
+
+    function populateGroup(cat){
+      const groups = MAP[cat] || [];
+      $sw.innerHTML = '<option value="">— 請選擇組別 —</option>' +
+        groups.map(g => `<option data-file="${safe(g.file)}">${safe(g.group)}</option>`).join('');
+      $sw.disabled = groups.length === 0;
+    }
+
+    // 載入 JSON（動態偵測標題列與欄位）
+    async function fetchJSON(path){
+      try{
+        const res = await fetch(path, { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        if(!Array.isArray(data)) throw new Error('JSON 格式需為陣列');
+
+        if (data.length === 0){
+          COLS = []; HEADERS = []; rawData = [];
+          applySearch(); // 會清空畫面
+          return;
+        }
+
+        const first = data[0] || {};
+        const second = data[1] || null;
+        const keys0 = Object.keys(first);
+
+        // 預期：第一筆是標題列（如新版 a-01-01.json）
+        let hasHeaderRow = keys0.length > 0 && keys0.every(k => typeof first[k] === 'string');
+
+        // 簡單排除「其實是資料列」的情況
+        if (hasHeaderRow && second){
+          const looksSame = keys0.every(k => String(first[k]) === String(second[k]));
+          if (looksSame) hasHeaderRow = false;
+        }
+
+        COLS = keys0.slice();                                  // 欄位順序 = 第一筆的 key 順序
+        HEADERS = hasHeaderRow ? COLS.map(k => first[k])       // 顯示用標題 = 標題列的值
+                               : COLS.map(k => k);             // 後援：沒有標題列 → 用 key
+
+        rawData = hasHeaderRow ? data.slice(1) : data.slice(); // 有標題列就跳過第一筆
+        page = 1;
+
+        applySearch();
+      }catch(err){
+        console.error(err);
+        rawData = []; viewData = []; COLS = []; HEADERS = [];
+        renderDesktopTable(); renderPager();
+        $table.innerHTML = '<tr><td>讀取失敗：' + safe(path) + '</td></tr>';
+      }
+    }
+
+    // 搜尋與渲染
+    function applySearch(){
+      const kw = ($q.value||'').trim().toLowerCase();
+      if(!kw){ viewData = rawData.slice(); }
+      else{
+        viewData = rawData.filter(row => {
+          const txt = Object.values(row).join('\n').toLowerCase();
+          return kw.split(/\s+/).every(k => txt.includes(k));
+        });
+      }
+      page = 1;
+      renderDesktopTable();
+      renderPager();
+    }
+
+    function renderDesktopTable(){
+      if (!COLS.length){
+        $table.innerHTML = '';
+        return;
+      }
+      const head = '<tr>' + HEADERS.map(h => `<th>${safe(h)}</th>`).join('') + '</tr>';
+      const rows = pagedData().map(r => {
+        const tds = COLS.map(c => `<td>${safe(r[c]) ?? '—'}</td>`).join('');
+        return `<tr>${tds}</tr>`;
+      }).join('');
+      $table.innerHTML = head + rows;
+    }
+
+
+    function renderPager(){
+      const total = viewData.length;
+      const pages = Math.max(1, Math.ceil(total / pageSize));
+      if(page > pages) page = pages;
+      let html = '';
+      for(let i=1;i<=pages;i++){
+        html += (i===page) ? `<button disabled="">${i}</button>` : `<button>${i}</button>`;
+      }
+      $pager.innerHTML = html;
+      Array.from($pager.querySelectorAll('button')).forEach((btn, i) => {
+        btn.addEventListener('click', () => { page = i+1; renderDesktopTable(); renderPager(); });
+      });
+    }
+
+    function pagedData(){ const start = (page-1)*pageSize; return viewData.slice(start, start+pageSize); }
+    function safe(v){ if(v==null) return ''; return String(v).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;'); }
+    function debounce(fn, wait){ let t; return (...args)=>{ clearTimeout(t); t=setTimeout(()=>fn.apply(this,args),wait); }; }
+
+    // 啟動
+    document.addEventListener('DOMContentLoaded', loadCatalog);
+  </script>
+
+
 </body>
 
 </html>
