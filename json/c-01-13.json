@@ -1,0 +1,1982 @@
+﻿[
+    {
+        "編號":  "編號",
+        "項次":  "項次",
+        "品項名稱":  "品項名稱",
+        "單位":  "單位",
+        "決標單價":  "決標單價",
+        "廠牌型號":  "廠牌型號",
+        "契約終止日期":  "契約終止日期",
+        "產地":  "產地"
+    },
+    {
+        "編號":  "1",
+        "項次":  "1",
+        "品項名稱":  "Acronis Cyber Backup 15 Advanced for Virtual Host 一次性授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "82,467",
+        "廠牌型號":  "Acronis Cyber Backup 15 Advanced for Virtual Host 一次性授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "瑞士"
+    },
+    {
+        "編號":  "2",
+        "項次":  "2",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for Exchange - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "100,586",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for Exchange - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "3",
+        "項次":  "3",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for Exchange - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "134,115",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for Exchange - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "4",
+        "項次":  "4",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for Linux - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "35,139",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for Linux - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "5",
+        "項次":  "5",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for Linux - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "53,241",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for Linux - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "6",
+        "項次":  "7",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for UNIX - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "53,241",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for UNIX - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "7",
+        "項次":  "8",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for Windows - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "35,150",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for Windows - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "8",
+        "項次":  "9",
+        "品項名稱":  "Arcserve Backup 19.0 Client Agent for Windows - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "53,241",
+        "廠牌型號":  "Arcserve Backup 19.0 Client Agent for Windows - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "9",
+        "項次":  "10",
+        "品項名稱":  "Arcserve Backup 19.0 Database Module - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "120,502",
+        "廠牌型號":  "Arcserve Backup 19.0 Database Module - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "10",
+        "項次":  "11",
+        "品項名稱":  "Arcserve Backup 19.0 Database Module - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "219,826",
+        "廠牌型號":  "Arcserve Backup 19.0 Database Module - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "11",
+        "項次":  "13",
+        "品項名稱":  "Arcserve Backup 19.0 Email Module - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "254,431",
+        "廠牌型號":  "Arcserve Backup 19.0 Email Module - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "12",
+        "項次":  "15",
+        "品項名稱":  "Arcserve Backup 19.0 File Server Module - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "169,337",
+        "廠牌型號":  "Arcserve Backup 19.0 File Server Module - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "13",
+        "項次":  "17",
+        "品項名稱":  "Arcserve Backup 19.0 for Linux Agent for Oracle - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "134,115",
+        "廠牌型號":  "Arcserve Backup 19.0 for Linux Agent for Oracle - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "14",
+        "項次":  "19",
+        "品項名稱":  "Arcserve Backup 19.0 for UNIX Agent for Oracle - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "298,783",
+        "廠牌型號":  "Arcserve Backup 19.0 for UNIX Agent for Oracle - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "15",
+        "項次":  "20",
+        "品項名稱":  "Arcserve Backup 19.0 for Windows - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "78,346",
+        "廠牌型號":  "Arcserve Backup 19.0 for Windows - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "16",
+        "項次":  "21",
+        "品項名稱":  "Arcserve Backup 19.0 for Windows - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "92,111",
+        "廠牌型號":  "Arcserve Backup 19.0 for Windows - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "17",
+        "項次":  "23",
+        "品項名稱":  "Arcserve Backup 19.0 for Windows Agent for Microsoft SQL Server - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "118,269",
+        "廠牌型號":  "Arcserve Backup 19.0 for Windows Agent for Microsoft SQL Server - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "18",
+        "項次":  "25",
+        "品項名稱":  "Arcserve Backup 19.0 for Windows Agent for Oracle - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "118,259",
+        "廠牌型號":  "Arcserve Backup 19.0 for Windows Agent for Oracle - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "19",
+        "項次":  "26",
+        "品項名稱":  "Arcserve Backup 19.0 Windows Agent for Lotus Domino - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "100,586",
+        "廠牌型號":  "Arcserve Backup 19.0 Windows Agent for Lotus Domino - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "20",
+        "項次":  "27",
+        "品項名稱":  "Arcserve Backup 19.0 Windows Agent for Lotus Domino - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "134,115",
+        "廠牌型號":  "Arcserve Backup 19.0 Windows Agent for Lotus Domino - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "21",
+        "項次":  "28",
+        "品項名稱":  "Arcserve High Availability for Linux Server OS - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "320,137",
+        "廠牌型號":  "Arcserve High Availability for Linux Server OS - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "22",
+        "項次":  "29",
+        "品項名稱":  "Arcserve High Availability for Linux Server OS - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "389,975",
+        "廠牌型號":  "Arcserve High Availability for Linux Server OS - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "23",
+        "項次":  "30",
+        "品項名稱":  "Arcserve High Availability for Linux Virtual Machine - 5 Pack - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "517,093",
+        "廠牌型號":  "Arcserve High Availability for Linux Virtual Machine - 5 Pack - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "24",
+        "項次":  "31",
+        "品項名稱":  "Arcserve High Availability for Linux Virtual Machine - 5 Pack - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "723,931",
+        "廠牌型號":  "Arcserve High Availability for Linux Virtual Machine - 5 Pack - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "25",
+        "項次":  "33",
+        "品項名稱":  "Arcserve High Availability for Linux Virtual Machine - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "241,310",
+        "廠牌型號":  "Arcserve High Availability for Linux Virtual Machine - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "26",
+        "項次":  "34",
+        "品項名稱":  "Arcserve High Availability for Unix Server OS - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "541,687",
+        "廠牌型號":  "Arcserve High Availability for Unix Server OS - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "27",
+        "項次":  "35",
+        "品項名稱":  "Arcserve High Availability for Unix Server OS - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "758,361",
+        "廠牌型號":  "Arcserve High Availability for Unix Server OS - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "28",
+        "項次":  "36",
+        "品項名稱":  "Arcserve High Availability for Windows Enterprise OS with Assured Recovery - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "541,687",
+        "廠牌型號":  "Arcserve High Availability for Windows Enterprise OS with Assured Recovery - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "29",
+        "項次":  "37",
+        "品項名稱":  "Arcserve High Availability for Windows Enterprise OS with Assured Recovery - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "758,361",
+        "廠牌型號":  "Arcserve High Availability for Windows Enterprise OS with Assured Recovery - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "30",
+        "項次":  "39",
+        "品項名稱":  "Arcserve High Availability for Windows Standard OS with Assured Recovery - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "448,191",
+        "廠牌型號":  "Arcserve High Availability for Windows Standard OS with Assured Recovery - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "31",
+        "項次":  "40",
+        "品項名稱":  "Arcserve High Availability for Windows Virtual Machine with Assured Recovery - 5 Pack - Product plus 1 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "517,093",
+        "廠牌型號":  "Arcserve High Availability for Windows Virtual Machine with Assured Recovery - 5 Pack - Product plus 1 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "32",
+        "項次":  "41",
+        "品項名稱":  "Arcserve High Availability for Windows Virtual Machine with Assured Recovery - 5 Pack - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "723,931",
+        "廠牌型號":  "Arcserve High Availability for Windows Virtual Machine with Assured Recovery - 5 Pack - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "33",
+        "項次":  "43",
+        "品項名稱":  "Arcserve High Availability for Windows Virtual Machine with Assured Recovery - Product plus 3 Year Enterprise Maintenance (最新版本出貨)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "241,310",
+        "廠牌型號":  "Arcserve High Availability for Windows Virtual Machine with Assured Recovery - Product plus 3 Year Enterprise Maintenance (最新版本出貨)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "34",
+        "項次":  "44",
+        "品項名稱":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity 1 TB - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "377,017",
+        "廠牌型號":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity 1 TB - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "35",
+        "項次":  "45",
+        "品項名稱":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity 1 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "67,861",
+        "廠牌型號":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity 1 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "36",
+        "項次":  "46",
+        "品項名稱":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity 1 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "203,589",
+        "廠牌型號":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity 1 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "37",
+        "項次":  "47",
+        "品項名稱":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity per TB between 2 - 5 TB - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "358,170",
+        "廠牌型號":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity per TB between 2 - 5 TB - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "38",
+        "項次":  "48",
+        "品項名稱":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity per TB between 2 - 5 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "64,469",
+        "廠牌型號":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity per TB between 2 - 5 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "39",
+        "項次":  "49",
+        "品項名稱":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity per TB between 2 - 5 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "193,407",
+        "廠牌型號":  "Arcserve UDP 10.x Advanced Edition - Managed Capacity per TB between 2 - 5 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "40",
+        "項次":  "53",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Managed Capacity 1 TB - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "628,109",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Managed Capacity 1 TB - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "41",
+        "項次":  "54",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Managed Capacity 1 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "113,059",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Managed Capacity 1 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "42",
+        "項次":  "55",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Managed Capacity 1 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "339,181",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Managed Capacity 1 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "43",
+        "項次":  "56",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Managed Capacity per TB between 2 - 5 TB - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "596,704",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Managed Capacity per TB between 2 - 5 TB - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "44",
+        "項次":  "57",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Managed Capacity per TB between 2 - 5 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "107,401",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Managed Capacity per TB between 2 - 5 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "45",
+        "項次":  "58",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Managed Capacity per TB between 2 - 5 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "322,219",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Managed Capacity per TB between 2 - 5 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "46",
+        "項次":  "59",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Socket - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "113,043",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Socket - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "47",
+        "項次":  "61",
+        "品項名稱":  "Arcserve UDP 10.x Premium Edition - Socket - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "72,826",
+        "廠牌型號":  "Arcserve UDP 10.x Premium Edition - Socket - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "48",
+        "項次":  "65",
+        "品項名稱":  "Arcserve UDP 10.x Standard Edition - Managed Capacity per TB between 2 - 5 TB - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "286,299",
+        "廠牌型號":  "Arcserve UDP 10.x Standard Edition - Managed Capacity per TB between 2 - 5 TB - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "49",
+        "項次":  "66",
+        "品項名稱":  "Arcserve UDP 10.x Standard Edition - Managed Capacity per TB between 2 - 5 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "51,532",
+        "廠牌型號":  "Arcserve UDP 10.x Standard Edition - Managed Capacity per TB between 2 - 5 TB - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "50",
+        "項次":  "67",
+        "品項名稱":  "Arcserve UDP 10.x Standard Edition - Managed Capacity per TB between 2 - 5 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "154,601",
+        "廠牌型號":  "Arcserve UDP 10.x Standard Edition - Managed Capacity per TB between 2 - 5 TB - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "51",
+        "項次":  "68",
+        "品項名稱":  "Arcserve UDP 10.x Standard Edition - Socket - License Only(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "67,159",
+        "廠牌型號":  "Arcserve UDP 10.x Standard Edition - Socket - License Only(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "52",
+        "項次":  "69",
+        "品項名稱":  "Arcserve UDP 10.x Standard Edition - Socket - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "13,428",
+        "廠牌型號":  "Arcserve UDP 10.x Standard Edition - Socket - One Year Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "53",
+        "項次":  "70",
+        "品項名稱":  "Arcserve UDP 10.x Standard Edition - Socket - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "36,269",
+        "廠牌型號":  "Arcserve UDP 10.x Standard Edition - Socket - Three Years Enterprise Maintenance - New(全新改版)-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "54",
+        "項次":  "71",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per Capacity 1TB 訂閱一年授權單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "248,736",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per Capacity 1TB 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "55",
+        "項次":  "72",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per Capacity 1TB 訂閱三年授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "736,097",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per Capacity 1TB 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "56",
+        "項次":  "73",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per NAS 5TB 訂閱一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "132,457",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per NAS 5TB 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "57",
+        "項次":  "74",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per NAS 5TB 訂閱三年授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "395,349",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per NAS 5TB 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "58",
+        "項次":  "75",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per User MailBox 10個 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "9,403",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per User MailBox 10個 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "59",
+        "項次":  "76",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per User MailBox 10個 訂閱三年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "30,334",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per User MailBox 10個 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "60",
+        "項次":  "77",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 實體機(Physical Server) 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "40,950",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 實體機(Physical Server) 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "61",
+        "項次":  "78",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 實體機(Physical Server) 訂閱三年授權單次最低購買數量：1、單次最高購買數量：300",
+        "單位":  "套",
+        "決標單價":  "123,862",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 實體機(Physical Server) 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "62",
+        "項次":  "79",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 實體機(Physical Server)訂閱一年含遷移功能授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "69,262",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 實體機(Physical Server)訂閱一年含遷移功能授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "63",
+        "項次":  "80",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 工作站(Workstation) 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "4,853",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 工作站(Workstation) 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "64",
+        "項次":  "81",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 工作站(Workstation) 訂閱三年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "14,156",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 工作站(Workstation) 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "65",
+        "項次":  "82",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)10台 訂閱一年授權單次最低購買數量：1、單次最高購買數量：300",
+        "單位":  "套",
+        "決標單價":  "114,257",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)10台 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "66",
+        "項次":  "83",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)10台 訂閱三年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "367,037",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)10台 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "67",
+        "項次":  "84",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)5台 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "63,498",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)5台 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "68",
+        "項次":  "85",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)5台 訂閱三年授權單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "188,069",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)5台 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "69",
+        "項次":  "86",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)訂閱一年含遷移功能授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "27,098",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 虛擬機(VM GuestOS)訂閱一年含遷移功能授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "70",
+        "項次":  "87",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 資料庫代理程式(DB Agent) 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "22,042",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 資料庫代理程式(DB Agent) 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "71",
+        "項次":  "88",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統 Per 資料庫代理程式(DB Agent) 訂閱三年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "66,532",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統 Per 資料庫代理程式(DB Agent) 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "72",
+        "項次":  "89",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統主程式訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "52,679",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統主程式訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "73",
+        "項次":  "90",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統主程式訂閱三年授權單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "157,836",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統主程式訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "74",
+        "項次":  "91",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統含EDR整合模組 Per instances 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "8,291",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統含EDR整合模組 Per instances 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "75",
+        "項次":  "92",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統含分持功能模組 Per 1TB 訂閱一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "241,658",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統含分持功能模組 Per 1TB 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "76",
+        "項次":  "93",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統含勒索病毒解密模組 Per 100G 訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "31,446",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統含勒索病毒解密模組 Per 100G 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "77",
+        "項次":  "94",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統含勒索病毒解密資料庫模組 Per 10G 訂閱一年授權單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "144,692",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統含勒索病毒解密資料庫模組 Per 10G 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "78",
+        "項次":  "95",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統模組 Per 100 instances 訂閱一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "333,670",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統模組 Per 100 instances 訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "79",
+        "項次":  "96",
+        "品項名稱":  "Arrosoft - AirGap 離線備份系統模組 Per 100 instances 訂閱三年授權單次最低購買數量：1、單次最高購買數量：30",
+        "單位":  "套",
+        "決標單價":  "987,867",
+        "廠牌型號":  "Arrosoft - AirGap 離線備份系統模組 Per 100 instances 訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "80",
+        "項次":  "97",
+        "品項名稱":  "Arrosoft - CloudAny 雲端災難復原(DR)系統 Per Per Capacity 1TB 擴充授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "7,786",
+        "廠牌型號":  "Arrosoft - CloudAny 雲端災難復原(DR)系統 Per Per Capacity 1TB 擴充授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "81",
+        "項次":  "98",
+        "品項名稱":  "Arrosoft - CloudAny 雲端災難復原(DR)系統 Per 虛擬機/實體機/雲環境 1台(1TB)訂閱一年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "23,761",
+        "廠牌型號":  "Arrosoft - CloudAny 雲端災難復原(DR)系統 Per 虛擬機/實體機/雲環境 1台(1TB)訂閱一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "82",
+        "項次":  "99",
+        "品項名稱":  "Arrosoft - CloudAny 雲端災難復原(DR)系統 Per 虛擬機/實體機/雲環境 1台(1TB)訂閱三年授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "71,992",
+        "廠牌型號":  "Arrosoft - CloudAny 雲端災難復原(DR)系統 Per 虛擬機/實體機/雲環境 1台(1TB)訂閱三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "83",
+        "項次":  "100",
+        "品項名稱":  "Arrosoft - CloudAny 雲端遷移系統 Per Capacity 1TB 擴充授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "2,326",
+        "廠牌型號":  "Arrosoft - CloudAny 雲端遷移系統 Per Capacity 1TB 擴充授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "84",
+        "項次":  "101",
+        "品項名稱":  "Arrosoft - CloudAny 雲端遷移系統 Per 虛擬機/實體機/雲環境 1台(5TB)一次性轉移授權單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "8,493",
+        "廠牌型號":  "Arrosoft - CloudAny 雲端遷移系統 Per 虛擬機/實體機/雲環境 1台(5TB)一次性轉移授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "85",
+        "項次":  "102",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 1個Vmware 或 Hyper-v 的Guest 授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "9,646",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 1個Vmware 或 Hyper-v 的Guest 授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "86",
+        "項次":  "103",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 Client PC Agent 5台授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "26,498",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 Client PC Agent 5台授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "87",
+        "項次":  "104",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 Client Server Agent 1台授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "35,011",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 Client Server Agent 1台授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "88",
+        "項次":  "105",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 Cloud Backup System 主控台 含一年軟體維護保固-最新版本出貨單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "56,586",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 Cloud Backup System 主控台 含一年軟體維護保固-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "89",
+        "項次":  "106",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 Replication Module 2個授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "16,252",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 Replication Module 2個授權含一年軟體維護保固 (必須搭配主控台)最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "90",
+        "項次":  "107",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 RPS 異地端授權版 含1套主控台/含10個Replication Module含一年軟體維護保固-最新版本出貨單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "110,548",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 RPS 異地端授權版 含1套主控台/含10個Replication Module含一年軟體維護保固-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "91",
+        "項次":  "108",
+        "品項名稱":  "CBS雲端備份軟體 V9.11 旗艦版 1主控台/2台Server版/5台PC版/資料庫備份授權含一年軟體維護保固-最新版本出貨單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "123,899",
+        "廠牌型號":  "CBS雲端備份軟體 V9.11 旗艦版 1主控台/2台Server版/5台PC版/資料庫備份授權含一年軟體維護保固-最新版本出貨",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "92",
+        "項次":  "111",
+        "品項名稱":  "Commvault Auto Recovery for Virtual Machines, Per VM (10-Pack) -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "30,820",
+        "廠牌型號":  "Commvault Auto Recovery for Virtual Machines, Per VM (10-Pack) -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "93",
+        "項次":  "112",
+        "品項名稱":  "Commvault Auto Recovery for Virtual Machines, Per VM (10-Pack) 授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "202,889",
+        "廠牌型號":  "Commvault Auto Recovery for Virtual Machines, Per VM (10-Pack) 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "94",
+        "項次":  "113",
+        "品項名稱":  "Commvault Auto Recovery, Per Front-End Terabyte -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "58,314",
+        "廠牌型號":  "Commvault Auto Recovery, Per Front-End Terabyte -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "95",
+        "項次":  "114",
+        "品項名稱":  "Commvault Auto Recovery, Per Front-End Terabyte授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "382,933",
+        "廠牌型號":  "Commvault Auto Recovery, Per Front-End Terabyte授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "96",
+        "項次":  "115",
+        "品項名稱":  "Commvault Backup \u0026 Recovery , Per Front-End Terabyte -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "66,656",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery , Per Front-End Terabyte -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "97",
+        "項次":  "116",
+        "品項名稱":  "Commvault Backup \u0026 Recovery ,Per Front-End Terabyte 授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "437,540",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery ,Per Front-End Terabyte 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "98",
+        "項次":  "117",
+        "品項名稱":  "Commvault Backup \u0026 Recovery (500GB Capped Operating Instance), Per Operating Instance -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "32,033",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery (500GB Capped Operating Instance), Per Operating Instance -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "99",
+        "項次":  "118",
+        "品項名稱":  "Commvault Backup \u0026 Recovery (500GB Capped Operating Instance), Per Operating Instance 授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "211,732",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery (500GB Capped Operating Instance), Per Operating Instance 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "100",
+        "項次":  "119",
+        "品項名稱":  "Commvault Backup \u0026 Recovery for Endpoint Users, Per User 授權-1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：4,000",
+        "單位":  "套",
+        "決標單價":  "1,273",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery for Endpoint Users, Per User 授權-1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "101",
+        "項次":  "120",
+        "品項名稱":  "Commvault Backup \u0026 Recovery for Endpoint Users, Per User 授權(含一年免費軟體版本昇級)單次最低購買數量：10 、 單次最高購買數量：4,000",
+        "單位":  "套",
+        "決標單價":  "8,693",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery for Endpoint Users, Per User 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "102",
+        "項次":  "121",
+        "品項名稱":  "Commvault Backup \u0026 Recovery for Mail and Cloud Applications, Per User 授權-1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：4,000",
+        "單位":  "套",
+        "決標單價":  "314",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery for Mail and Cloud Applications, Per User 授權-1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "103",
+        "項次":  "122",
+        "品項名稱":  "Commvault Backup \u0026 Recovery for Mail and Cloud Applications, Per User 授權(含一年免費軟體版本昇級)單次最低購買數量：10 、 單次最高購買數量：4,000",
+        "單位":  "套",
+        "決標單價":  "2,251",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery for Mail and Cloud Applications, Per User 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "104",
+        "項次":  "123",
+        "品項名稱":  "Commvault Backup \u0026 Recovery for Virtual Machines, Per VM (10-Pack) -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "套",
+        "決標單價":  "35,278",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery for Virtual Machines, Per VM (10-Pack) -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "105",
+        "項次":  "124",
+        "品項名稱":  "Commvault Backup \u0026 Recovery for Virtual Machines, Per VM (10-Pack) 授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：150",
+        "單位":  "150",
+        "決標單價":  "231,927",
+        "廠牌型號":  "Commvault Backup \u0026 Recovery for Virtual Machines, Per VM (10-Pack) 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "106",
+        "項次":  "125",
+        "品項名稱":  "Commvault Cloud Backup \u0026 Recovery Software for Active Directory Standard單次最低購買數量：1、單次最高購買數量：999",
+        "單位":  "套",
+        "決標單價":  "1,363",
+        "廠牌型號":  "Commvault Cloud Backup \u0026 Recovery Software for Active Directory Standard",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "107",
+        "項次":  "126",
+        "品項名稱":  "Commvault Complete DP , Per Front-End Terabyte 授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "656,592",
+        "廠牌型號":  "Commvault Complete DP , Per Front-End Terabyte 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "108",
+        "項次":  "127",
+        "品項名稱":  "Commvault Complete DP for Virtual Machines, Per VM (10-Pack) -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "52,985",
+        "廠牌型號":  "Commvault Complete DP for Virtual Machines, Per VM (10-Pack) -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "109",
+        "項次":  "128",
+        "品項名稱":  "Commvault Complete DP for Virtual Machines, Per VM (10-Pack) 授權(含一年免費軟體版本昇級)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "348,031",
+        "廠牌型號":  "Commvault Complete DP for Virtual Machines, Per VM (10-Pack) 授權(含一年免費軟體版本昇級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "110",
+        "項次":  "129",
+        "品項名稱":  "Commvault Complete DP, Per Front-End Terabyte -1年版本更新維護授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "100,033",
+        "廠牌型號":  "Commvault Complete DP, Per Front-End Terabyte -1年版本更新維護授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "111",
+        "項次":  "130",
+        "品項名稱":  "Dell AVAMAR備份軟體授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "578,362",
+        "廠牌型號":  "Dell AVAMAR備份軟體授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "112",
+        "項次":  "131",
+        "品項名稱":  "Dell Cloud Disaster Recovery 備份數據雲端災難復原1TB(by TB)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "143,074",
+        "廠牌型號":  "Dell Cloud Disaster Recovery 備份數據雲端災難復原1TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "113",
+        "項次":  "132",
+        "品項名稱":  "Dell Cloud Disaster Recovery 備份數據雲端災難復原1TB(by TB)單次最低購買數量：101、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "135,354",
+        "廠牌型號":  "Dell Cloud Disaster Recovery 備份數據雲端災難復原1TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "114",
+        "項次":  "133",
+        "品項名稱":  "Dell Cloud Tier 數據保護雲端分層授權1TB(by TB)單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "39,434",
+        "廠牌型號":  "Dell Cloud Tier 數據保護雲端分層授權1TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "愛爾蘭"
+    },
+    {
+        "編號":  "115",
+        "項次":  "134",
+        "品項名稱":  "Dell Data Protection Suite備份軟體授權1 CPU (by CPU Socket)單次最低購買數量：1、單次最高購買數量：75",
+        "單位":  "CPU/顆",
+        "決標單價":  "514,661",
+        "廠牌型號":  "Dell Data Protection Suite備份軟體授權1 CPU (by CPU Socket)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "116",
+        "項次":  "135",
+        "品項名稱":  "Dell Data Protection Suite備份軟體授權1 TB(by TB)單次最低購買數量：1、單次最高購買數量：75",
+        "單位":  "套",
+        "決標單價":  "514,661",
+        "廠牌型號":  "Dell Data Protection Suite備份軟體授權1 TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "117",
+        "項次":  "136",
+        "品項名稱":  "Dell DM5500 數據保護管理系統1TB(by TB)單次最低購買數量：1、單次最高購買數量：96",
+        "單位":  "套",
+        "決標單價":  "222,447",
+        "廠牌型號":  "Dell DM5500 數據保護管理系統1TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "愛爾蘭"
+    },
+    {
+        "編號":  "118",
+        "項次":  "137",
+        "品項名稱":  "Dell NetWorker備份軟體 1T主程式含備份空間授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "356,421",
+        "廠牌型號":  "Dell NetWorker備份軟體 1T主程式含備份空間授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "119",
+        "項次":  "138",
+        "品項名稱":  "Dell NetWorker備份軟體 1T主程式含備份空間授權單次最低購買數量：51、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "332,828",
+        "廠牌型號":  "Dell NetWorker備份軟體 1T主程式含備份空間授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "120",
+        "項次":  "139",
+        "品項名稱":  "Dell PowerProtect Cloud Snapshot Manager 備份數據雲端快照管理授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "143,579",
+        "廠牌型號":  "Dell PowerProtect Cloud Snapshot Manager 備份數據雲端快照管理授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "121",
+        "項次":  "140",
+        "品項名稱":  "Dell PowerProtect Cloud Snapshot Manager 備份數據雲端快照管理授權單次最低購買數量：101、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "135,354",
+        "廠牌型號":  "Dell PowerProtect Cloud Snapshot Manager 備份數據雲端快照管理授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "122",
+        "項次":  "141",
+        "品項名稱":  "Dell PowerProtect Data Manager資料保護軟體授權1 CPU (by CPU Socket)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "CPU/顆",
+        "決標單價":  "150,657",
+        "廠牌型號":  "Dell PowerProtect Data Manager資料保護軟體授權1 CPU (by CPU Socket)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "123",
+        "項次":  "142",
+        "品項名稱":  "Dell PowerProtect Data Manager資料保護軟體授權1 CPU (by CPU Socket)單次最低購買數量：101、單次最高購買數量：200",
+        "單位":  "CPU/顆",
+        "決標單價":  "139,394",
+        "廠牌型號":  "Dell PowerProtect Data Manager資料保護軟體授權1 CPU (by CPU Socket)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "124",
+        "項次":  "143",
+        "品項名稱":  "Dell PowerProtect Data Manager資料保護軟體授權1 TB(by TB)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "150,657",
+        "廠牌型號":  "Dell PowerProtect Data Manager資料保護軟體授權1 TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "125",
+        "項次":  "144",
+        "品項名稱":  "Dell PowerProtect Data Manager資料保護軟體授權1 TB(by TB)單次最低購買數量：101、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "139,394",
+        "廠牌型號":  "Dell PowerProtect Data Manager資料保護軟體授權1 TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "126",
+        "項次":  "145",
+        "品項名稱":  "Dell POWERPROTECT DD軟體定義去重系統 1TB單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "127,401",
+        "廠牌型號":  "Dell POWERPROTECT DD軟體定義去重系統 1TB",
+        "契約終止日期":  "115/05/07",
+        "產地":  "愛爾蘭"
+    },
+    {
+        "編號":  "127",
+        "項次":  "146",
+        "品項名稱":  "Dell POWERPROTECT DD軟體定義去重系統 1TB單次最低購買數量：101、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "123,232",
+        "廠牌型號":  "Dell POWERPROTECT DD軟體定義去重系統 1TB",
+        "契約終止日期":  "115/05/07",
+        "產地":  "愛爾蘭"
+    },
+    {
+        "編號":  "128",
+        "項次":  "147",
+        "品項名稱":  "訂閱1年期 Dell Data Protection Suite備份軟體授權1 CPU (by CPU Socket)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "CPU/顆",
+        "決標單價":  "388,271",
+        "廠牌型號":  "訂閱1年期 Dell Data Protection Suite備份軟體授權1 CPU (by CPU Socket)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "129",
+        "項次":  "148",
+        "品項名稱":  "訂閱1年期 Dell Data Protection Suite備份軟體授權1 TB(by TB)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "388,271",
+        "廠牌型號":  "訂閱1年期 Dell Data Protection Suite備份軟體授權1 TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "130",
+        "項次":  "149",
+        "品項名稱":  "訂閱1年期 Dell PowerProtect Data Manager資料保護軟體授權1 CPU (by CPU Socket)單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "CPU/顆",
+        "決標單價":  "83,418",
+        "廠牌型號":  "訂閱1年期 Dell PowerProtect Data Manager資料保護軟體授權1 CPU (by CPU Socket)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "131",
+        "項次":  "150",
+        "品項名稱":  "訂閱1年期 Dell POWERPROTECT DD軟體定義去重系統 1TB單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "84,934",
+        "廠牌型號":  "訂閱1年期 Dell POWERPROTECT DD軟體定義去重系統 1TB",
+        "契約終止日期":  "115/05/07",
+        "產地":  "愛爾蘭"
+    },
+    {
+        "編號":  "132",
+        "項次":  "151",
+        "品項名稱":  "訂閱1年期-Dell PowerProtect Data Manager資料保護軟體授權1 TB(by TB)單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "83,418",
+        "廠牌型號":  "訂閱1年期-Dell PowerProtect Data Manager資料保護軟體授權1 TB(by TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "133",
+        "項次":  "158",
+        "品項名稱":  "日立數據科技 (HDPS) 資料備份軟體(1TB 備份儲存容量)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "185,945",
+        "廠牌型號":  "日立數據科技 (HDPS) 資料備份軟體(1TB 備份儲存容量)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "134",
+        "項次":  "159",
+        "品項名稱":  "日立數據科技 (HDPS)資料備份軟體(10台虛擬機)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "97,422",
+        "廠牌型號":  "日立數據科技 (HDPS)資料備份軟體(10台虛擬機)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "135",
+        "項次":  "162",
+        "品項名稱":  "Data Encryption LTU 軟體單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,527,300",
+        "廠牌型號":  "Data Encryption LTU 軟體",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "136",
+        "項次":  "163",
+        "品項名稱":  "HPE GreenLake 備份套件進階組合包 50VM 一年訂閱版單次最低購買數量：1、單次最高購買數量：32",
+        "單位":  "套",
+        "決標單價":  "1,249,371",
+        "廠牌型號":  "HPE GreenLake 備份套件進階組合包 50VM 一年訂閱版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "137",
+        "項次":  "164",
+        "品項名稱":  "HPE GreenLake 備份套件進階組合包 50VM 三年訂閱版單次最低購買數量：1、單次最高購買數量：12",
+        "單位":  "套",
+        "決標單價":  "3,348,064",
+        "廠牌型號":  "HPE GreenLake 備份套件進階組合包 50VM 三年訂閱版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "138",
+        "項次":  "165",
+        "品項名稱":  "HPE Zerto 企業版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,266,520",
+        "廠牌型號":  "HPE Zerto 企業版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "139",
+        "項次":  "166",
+        "品項名稱":  "HPE Zerto 基礎版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "418,778",
+        "廠牌型號":  "HPE Zerto 基礎版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "140",
+        "項次":  "167",
+        "品項名稱":  "StoreOnce VSA 1TB 擴充套件單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "100,607",
+        "廠牌型號":  "StoreOnce VSA 1TB 擴充套件",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "141",
+        "項次":  "168",
+        "品項名稱":  "StoreOnce VSA 4TB單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "505,056",
+        "廠牌型號":  "StoreOnce VSA 4TB",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "142",
+        "項次":  "169",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Essentials for Physical (5-Servers 或 15-Workstations)(新購含一年MA)單次最低購買數量：2 、 單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "46,876",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Essentials for Physical (5-Servers 或 15-Workstations)(新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "143",
+        "項次":  "170",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Essentials for Physical (5-Servers 或 15-Workstations)(續約一年)單次最低購買數量：2 、 單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "9,071",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Essentials for Physical (5-Servers 或 15-Workstations)(續約一年)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "144",
+        "項次":  "171",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise for Physical (5-Servers 或 15-Workstations)(新購含一年MA)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "73,087",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise for Physical (5-Servers 或 15-Workstations)(新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "145",
+        "項次":  "172",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise for Physical (5-Servers 或 15-Workstations)(續約一年)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "14,378",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise for Physical (5-Servers 或 15-Workstations)(續約一年)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "146",
+        "項次":  "173",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Oracle (per Oracle Database)(新購含一年MA)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "20,665",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Oracle (per Oracle Database)(新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "147",
+        "項次":  "174",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Oracle (per Oracle Database)(續約一年)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "3,943",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Oracle (per Oracle Database)(續約一年)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "148",
+        "項次":  "175",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Physical (5-Servers 或 15-Workstations)(新購含一年MA)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "99,298",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Physical (5-Servers 或 15-Workstations)(新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "149",
+        "項次":  "176",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Physical (5-Servers 或 15-Workstations)(續約一年)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "19,594",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Plus for Physical (5-Servers 或 15-Workstations)(續約一年)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "150",
+        "項次":  "177",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Plus for VMware, Hyper-V, and Nutanix (新購含一年MA)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "118,520",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Plus for VMware, Hyper-V, and Nutanix (新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "151",
+        "項次":  "178",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Enterprise Plus for VMware, Hyper-V, and Nutanix (新購含一年MA)單次最低購買數量：11、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "116,032",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Enterprise Plus for VMware, Hyper-V, and Nutanix (新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "152",
+        "項次":  "179",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication for Microsoft Office 365 一年訂閱授權 (10 Licenses )單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "15,558",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication for Microsoft Office 365 一年訂閱授權 (10 Licenses )",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "153",
+        "項次":  "180",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Pro Essentials for Physical (5-Servers 或 15-Workstations)(新購含一年MA)單次最低購買數量：2 、 單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "35,510",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Pro Essentials for Physical (5-Servers 或 15-Workstations)(新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "154",
+        "項次":  "181",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Pro Essentials for Physical (5-Servers 或 15-Workstations)(續約一年)單次最低購買數量：2 、 單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "6,552",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Pro Essentials for Physical (5-Servers 或 15-Workstations)(續約一年)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "155",
+        "項次":  "182",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Pro for Physical (5-Servers 或 15-Workstations)(新購含一年MA)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "55,613",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Pro for Physical (5-Servers 或 15-Workstations)(新購含一年MA)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "156",
+        "項次":  "183",
+        "品項名稱":  "NAKIVO Backup \u0026 Replication Pro for Physical (5-Servers 或 15-Workstations)(續約一年)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "12,662",
+        "廠牌型號":  "NAKIVO Backup \u0026 Replication Pro for Physical (5-Servers 或 15-Workstations)(續約一年)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "157",
+        "項次":  "194",
+        "品項名稱":  "Quantum DXi 重複資料刪除虛擬版1TB空間授權(含一年支援及保固內免費軟體版本升級)單次最低購買數量：5 、 單次最高購買數量：256",
+        "單位":  "TB",
+        "決標單價":  "7,027",
+        "廠牌型號":  "Quantum DXi 重複資料刪除虛擬版1TB空間授權(含一年支援及保固內免費軟體版本升級)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "158",
+        "項次":  "201",
+        "品項名稱":  "EVOSYS 硬碟管理系統單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "3,071",
+        "廠牌型號":  "EVOSYS 硬碟管理系統",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "159",
+        "項次":  "205",
+        "品項名稱":  "Capacity Pack 一年訂閱授權(僅為NAS備份使用,5TB起算,無資料備份上限)單次最低購買數量：5 、 單次最高購買數量：500",
+        "單位":  "TB",
+        "決標單價":  "24,257",
+        "廠牌型號":  "Capacity Pack 一年訂閱授權(僅為NAS備份使用,5TB起算,無資料備份上限)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "160",
+        "項次":  "206",
+        "品項名稱":  "Essentials Capacity Pack NAS備份入門包(管理上限50TB)1 TB 一年訂閱授權(最小購買量5TB)單次最低購買數量：5 、 單次最高購買數量：500",
+        "單位":  "TB",
+        "決標單價":  "8,079",
+        "廠牌型號":  "Essentials Capacity Pack NAS備份入門包(管理上限50TB)1 TB 一年訂閱授權(最小購買量5TB)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "161",
+        "項次":  "207",
+        "品項名稱":  "Essentials Capacity Pack NAS備份入門包(管理上限50TB)10 TB 一年買斷保固授權單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "TB",
+        "決標單價":  "339,727",
+        "廠牌型號":  "Essentials Capacity Pack NAS備份入門包(管理上限50TB)10 TB 一年買斷保固授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "162",
+        "項次":  "208",
+        "品項名稱":  "Essentials Capacity Pack NAS備份入門包(管理上限50TB)10 TB 一年買斷擴充保固單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "TB",
+        "決標單價":  "120,324",
+        "廠牌型號":  "Essentials Capacity Pack NAS備份入門包(管理上限50TB)10 TB 一年買斷擴充保固",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "163",
+        "項次":  "209",
+        "品項名稱":  "Veeam Data Cloud for Microsoft 365 - Premium 一年訂閱授權單次最低購買數量：10 、 單次最高購買數量：5,000",
+        "單位":  "m365 mail",
+        "決標單價":  "7,078",
+        "廠牌型號":  "Veeam Data Cloud for Microsoft 365 - Premium 一年訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "164",
+        "項次":  "210",
+        "品項名稱":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);ㄧ年擴充保固授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "虛擬機",
+        "決標單價":  "83,903",
+        "廠牌型號":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);ㄧ年擴充保固授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "165",
+        "項次":  "211",
+        "品項名稱":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠ㄧ年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "虛擬機",
+        "決標單價":  "339,272",
+        "廠牌型號":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠ㄧ年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "166",
+        "項次":  "212",
+        "品項名稱":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠三年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：80",
+        "單位":  "虛擬機",
+        "決標單價":  "508,928",
+        "廠牌型號":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠三年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "167",
+        "項次":  "213",
+        "品項名稱":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠五年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "虛擬機",
+        "決標單價":  "678,595",
+        "廠牌型號":  "Veeam Data Platform – Advanced Edition 進階版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠五年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "168",
+        "項次":  "214",
+        "品項名稱":  "Veeam Data Platform – Essentials Edition-⼊⾨版本 - 5個虛擬機授權(管理上限50台虛擬機);-一年擴充保固授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "虛擬機",
+        "決標單價":  "25,966",
+        "廠牌型號":  "Veeam Data Platform – Essentials Edition-⼊⾨版本 - 5個虛擬機授權(管理上限50台虛擬機);-一年擴充保固授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "169",
+        "項次":  "215",
+        "品項名稱":  "Veeam Data Platform – Essentials Edition-⼊⾨版本- 5個虛擬機授權(管理上限50台虛擬機);-三年擴充保固授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "虛擬機",
+        "決標單價":  "78,018",
+        "廠牌型號":  "Veeam Data Platform – Essentials Edition-⼊⾨版本- 5個虛擬機授權(管理上限50台虛擬機);-三年擴充保固授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "170",
+        "項次":  "216",
+        "品項名稱":  "Veeam Data Platform – Essentials Edition-⼊⾨版本- 5個虛擬機授權(管理上限50台虛擬機);-二年擴充保固授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "虛擬機",
+        "決標單價":  "51,992",
+        "廠牌型號":  "Veeam Data Platform – Essentials Edition-⼊⾨版本- 5個虛擬機授權(管理上限50台虛擬機);-二年擴充保固授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "171",
+        "項次":  "217",
+        "品項名稱":  "Veeam Data Platform – Essentials Edition-⼊⾨版本- 5個虛擬機授權(管理上限50台虛擬機);含原廠一年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "虛擬機",
+        "決標單價":  "96,239",
+        "廠牌型號":  "Veeam Data Platform – Essentials Edition-⼊⾨版本- 5個虛擬機授權(管理上限50台虛擬機);含原廠一年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "172",
+        "項次":  "218",
+        "品項名稱":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);ㄧ年擴充保固授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "虛擬機",
+        "決標單價":  "64,944",
+        "廠牌型號":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);ㄧ年擴充保固授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "173",
+        "項次":  "219",
+        "品項名稱":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠ㄧ年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "虛擬機",
+        "決標單價":  "262,583",
+        "廠牌型號":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠ㄧ年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "174",
+        "項次":  "220",
+        "品項名稱":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠三年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：80",
+        "單位":  "虛擬機",
+        "決標單價":  "419,403",
+        "廠牌型號":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠三年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "175",
+        "項次":  "221",
+        "品項名稱":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠五年7*24電話支援及保固內軟體免費下載升級單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "虛擬機",
+        "決標單價":  "559,717",
+        "廠牌型號":  "Veeam Data Platform – Foundation Edition 基礎版本-10個虛擬機授權(Hyper V and VMware and AHV);含原廠五年7*24電話支援及保固內軟體免費下載升級",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "176",
+        "項次":  "222",
+        "品項名稱":  "Veeam Data Platform Advanced Enterprise Plus企業增強版一年擴充保固單顆CPU授權-現有客戶續約使用單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "CPU",
+        "決標單價":  "82,356",
+        "廠牌型號":  "Veeam Data Platform Advanced Enterprise Plus企業增強版一年擴充保固單顆CPU授權-現有客戶續約使用",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "177",
+        "項次":  "223",
+        "品項名稱":  "Veeam Data Platform Foundation Enterprise Plus企業增強版一年擴充保固單顆CPU授權-現有客戶續約使用單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "CPU",
+        "決標單價":  "73,498",
+        "廠牌型號":  "Veeam Data Platform Foundation Enterprise Plus企業增強版一年擴充保固單顆CPU授權-現有客戶續約使用",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "178",
+        "項次":  "224",
+        "品項名稱":  "Veeam Data Platform Foundation Enterprise企業版一年擴充保固單顆CPU授權-現有客戶續約使用單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "CPU",
+        "決標單價":  "40,303",
+        "廠牌型號":  "Veeam Data Platform Foundation Enterprise企業版一年擴充保固單顆CPU授權-現有客戶續約使用",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "179",
+        "項次":  "225",
+        "品項名稱":  "Veeam Data Platform Foundation Standard標準版一年擴充保固單顆CPU授權-現有客戶續約使用單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "CPU",
+        "決標單價":  "24,464",
+        "廠牌型號":  "Veeam Data Platform Foundation Standard標準版一年擴充保固單顆CPU授權-現有客戶續約使用",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "180",
+        "項次":  "226",
+        "品項名稱":  "Veeam Data Platform Premium (10 instance) 一年訂閱授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "虛擬機",
+        "決標單價":  "145,597",
+        "廠牌型號":  "Veeam Data Platform Premium (10 instance) 一年訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "181",
+        "項次":  "227",
+        "品項名稱":  "Veeam Veeam Vault 10TB 一年訂閱授權含檢測報告單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "TB",
+        "決標單價":  "2,426,684",
+        "廠牌型號":  "Veeam Veeam Vault 10TB 一年訂閱授權含檢測報告",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "182",
+        "項次":  "228",
+        "品項名稱":  "WEKA數據平台-極致效能與大規模檔案系統儲存軟體 (NVMe 快閃儲存階層30TB儲存容量)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "706,775",
+        "廠牌型號":  "WEKA數據平台-極致效能與大規模檔案系統儲存軟體 (NVMe 快閃儲存階層30TB儲存容量)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "183",
+        "項次":  "229",
+        "品項名稱":  "EZ-BACK System 備份還原系統 (標準版)單次最低購買數量：1、單次最高購買數量：1,000",
+        "單位":  "套",
+        "決標單價":  "3,632",
+        "廠牌型號":  "EZ-BACK System 備份還原系統 (標準版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "184",
+        "項次":  "230",
+        "品項名稱":  "EZ-BACK System 備份還原系統 (精裝版)單次最低購買數量：1、單次最高購買數量：1,000",
+        "單位":  "套",
+        "決標單價":  "3,111",
+        "廠牌型號":  "EZ-BACK System 備份還原系統 (精裝版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "185",
+        "項次":  "231",
+        "品項名稱":  "EZ-BACK System備份還原系統 (旗艦版)單次最低購買數量：1、單次最高購買數量：1,000",
+        "單位":  "套",
+        "決標單價":  "4,282",
+        "廠牌型號":  "EZ-BACK System備份還原系統 (旗艦版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "186",
+        "項次":  "232",
+        "品項名稱":  "EZ-BACK System備份還原系統(專業版)單次最低購買數量：1、單次最高購買數量：1,000",
+        "單位":  "套",
+        "決標單價":  "3,853",
+        "廠牌型號":  "EZ-BACK System備份還原系統(專業版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "187",
+        "項次":  "233",
+        "品項名稱":  "空氣品質電子連續監控雲端系統單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "907,755",
+        "廠牌型號":  "空氣品質電子連續監控雲端系統",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "188",
+        "項次":  "234",
+        "品項名稱":  "電腦教學管理系統- 智慧網路還原大師 Easy Recovery System單次最低購買數量：5 、 單次最高購買數量：1,000",
+        "單位":  "U",
+        "決標單價":  "1,918",
+        "廠牌型號":  "電腦教學管理系統- 智慧網路還原大師 Easy Recovery System",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "189",
+        "項次":  "235",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 企業版-10U授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "36,390",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 企業版-10U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "190",
+        "項次":  "236",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 企業版-1U授權單次最低購買數量：10 、 單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "4,041",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 企業版-1U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "191",
+        "項次":  "237",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 企業版-1U授權單次最低購買數量：501、單次最高購買數量：2,000",
+        "單位":  "套",
+        "決標單價":  "3,997",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 企業版-1U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "192",
+        "項次":  "238",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 專業版 -10U授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "30,171",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 專業版 -10U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "193",
+        "項次":  "239",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 專業版 -1U授權單次最低購買數量：10 、 單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "3,637",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 專業版 -1U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "194",
+        "項次":  "240",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 專業版 -1U授權單次最低購買數量：501、單次最高購買數量：2,000",
+        "單位":  "套",
+        "決標單價":  "3,593",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 專業版 -1U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "195",
+        "項次":  "241",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 標準版- 10U授權單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "19,817",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 標準版- 10U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "196",
+        "項次":  "242",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 標準版- 1U授權單次最低購買數量：10 、 單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "2,424",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 標準版- 1U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "197",
+        "項次":  "243",
+        "品項名稱":  "TOP CPR PLUS電腦還原系統 標準版- 1U授權單次最低購買數量：501、單次最高購買數量：2,000",
+        "單位":  "套",
+        "決標單價":  "2,381",
+        "廠牌型號":  "TOP CPR PLUS電腦還原系統 標準版- 1U授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    }
+]
