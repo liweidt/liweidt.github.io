@@ -1,0 +1,1542 @@
+﻿[
+    {
+        "編號":  "編號",
+        "項次":  "項次",
+        "品項名稱":  "品項名稱",
+        "單位":  "單位",
+        "決標單價":  "決標單價",
+        "廠牌型號":  "廠牌型號",
+        "契約終止日期":  "契約終止日期",
+        "產地":  "產地"
+    },
+    {
+        "編號":  "1",
+        "項次":  "10",
+        "品項名稱":  "Dynatrace Managed Digital Experience Monitoring (300,000 Unit)-一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "207,786",
+        "廠牌型號":  "Dynatrace Managed Digital Experience Monitoring (300,000 Unit)-一年授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "2",
+        "項次":  "11",
+        "品項名稱":  "Dynatrace Managed Infrastructure only (16GB Per Host Unit) - 一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "134,985",
+        "廠牌型號":  "Dynatrace Managed Infrastructure only (16GB Per Host Unit) - 一年授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "3",
+        "項次":  "12",
+        "品項名稱":  "Dynatrace Managed/SaaS Host Unit (16GB Per Host Unit) - 一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "251,769",
+        "廠牌型號":  "Dynatrace Managed/SaaS Host Unit (16GB Per Host Unit) - 一年授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "4",
+        "項次":  "13",
+        "品項名稱":  "Dynatrace Platform Subscription_ Managed / SaaS 3,750,000點-一年授權單次最低購買數量：1、單次最高購買數量：21",
+        "單位":  "套",
+        "決標單價":  "1,859,960",
+        "廠牌型號":  "Dynatrace Platform Subscription_ Managed / SaaS 3,750,000點-一年授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "5",
+        "項次":  "15",
+        "品項名稱":  "High Availability for Unlimited Guests, 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "50,374",
+        "廠牌型號":  "High Availability for Unlimited Guests, 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "6",
+        "項次":  "16",
+        "品項名稱":  "High Availability, 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "16,137",
+        "廠牌型號":  "High Availability, 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "7",
+        "項次":  "17",
+        "品項名稱":  "Red Hat Advanced Cluster Management for Kubernetes, Premium (2 Core or 4 vCPU), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：16",
+        "單位":  "Cores",
+        "決標單價":  "53,944",
+        "廠牌型號":  "Red Hat Advanced Cluster Management for Kubernetes, Premium (2 Core or 4 vCPU), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "8",
+        "項次":  "18",
+        "品項名稱":  "Red Hat Advanced Cluster Management for Kubernetes, Standard (2 Core or 4 vCPU), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：16",
+        "單位":  "Cores",
+        "決標單價":  "36,408",
+        "廠牌型號":  "Red Hat Advanced Cluster Management for Kubernetes, Standard (2 Core or 4 vCPU), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "9",
+        "項次":  "19",
+        "品項名稱":  "Red Hat AMQ, Premium (16 Cores), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Cores",
+        "決標單價":  "1,981,549",
+        "廠牌型號":  "Red Hat AMQ, Premium (16 Cores), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "10",
+        "項次":  "20",
+        "品項名稱":  "Red Hat AMQ, Standard (16 Cores), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Cores",
+        "決標單價":  "1,321,029",
+        "廠牌型號":  "Red Hat AMQ, Standard (16 Cores), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "11",
+        "項次":  "21",
+        "品項名稱":  "Red Hat Ansible Automation Platform, Premium (100 Managed Nodes), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "管理節點",
+        "決標單價":  "771,539",
+        "廠牌型號":  "Red Hat Ansible Automation Platform, Premium (100 Managed Nodes), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "12",
+        "項次":  "22",
+        "品項名稱":  "Red Hat Application Foundations, Premium, (2 Cores or 4 vCPUs), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "267,426",
+        "廠牌型號":  "Red Hat Application Foundations, Premium, (2 Cores or 4 vCPUs), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "13",
+        "項次":  "23",
+        "品項名稱":  "Red Hat Application Foundations, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "178,280",
+        "廠牌型號":  "Red Hat Application Foundations, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "14",
+        "項次":  "24",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Premium, 7x24 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "195,712",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "15",
+        "項次":  "25",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Standard, 5x8 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "139,487",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "16",
+        "項次":  "26",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters, Premium, 7x24 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "149,796",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters, Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "17",
+        "項次":  "27",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters, Standard, 5x8 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "93,573",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters, Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "18",
+        "項次":  "28",
+        "品項名稱":  "Red Hat Enterprise Linux Server with Satellite, Premium, 7x24 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "61,713",
+        "廠牌型號":  "Red Hat Enterprise Linux Server with Satellite, Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "19",
+        "項次":  "29",
+        "品項名稱":  "Red Hat Enterprise Linux Server with Satellite, Standard, 5x8 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "42,973",
+        "廠牌型號":  "Red Hat Enterprise Linux Server with Satellite, Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "20",
+        "項次":  "30",
+        "品項名稱":  "Red Hat Enterprise Linux Server, Premium, 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "47,635",
+        "廠牌型號":  "Red Hat Enterprise Linux Server, Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "21",
+        "項次":  "31",
+        "品項名稱":  "Red Hat Enterprise Linux Server, Standard, 5x8 一年訂閱單次最低購買數量：21、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "30,416",
+        "廠牌型號":  "Red Hat Enterprise Linux Server, Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "22",
+        "項次":  "32",
+        "品項名稱":  "Red Hat JBoss Enterprise Application Platform, 16-Core Premium, 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "Cores",
+        "決標單價":  "573,777",
+        "廠牌型號":  "Red Hat JBoss Enterprise Application Platform, 16-Core Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "23",
+        "項次":  "33",
+        "品項名稱":  "Red Hat JBoss Enterprise Application Platform, 16-Core Standard, 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "Cores",
+        "決標單價":  "431,626",
+        "廠牌型號":  "Red Hat JBoss Enterprise Application Platform, 16-Core Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "24",
+        "項次":  "36",
+        "品項名稱":  "Red Hat OpenShift AI, Premium (2 Cores or 4 vCPUs), 7x24一年訂閱單次最低購買數量：3 、 單次最高購買數量：50",
+        "單位":  "Cores",
+        "決標單價":  "108,366",
+        "廠牌型號":  "Red Hat OpenShift AI, Premium (2 Cores or 4 vCPUs), 7x24一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "25",
+        "項次":  "37",
+        "品項名稱":  "Red Hat OpenShift AI, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：3 、 單次最高購買數量：50",
+        "單位":  "Cores",
+        "決標單價":  "73,145",
+        "廠牌型號":  "Red Hat OpenShift AI, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "26",
+        "項次":  "38",
+        "品項名稱":  "Red Hat OpenShift Container Platform (Bare Metal Node), Premium (1-2 sockets), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：15",
+        "單位":  "Sockets",
+        "決標單價":  "647,444",
+        "廠牌型號":  "Red Hat OpenShift Container Platform (Bare Metal Node), Premium (1-2 sockets), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "27",
+        "項次":  "39",
+        "品項名稱":  "Red Hat OpenShift Container Platform Premium (2 Cores or 4 vCPUs ), 7x24一年訂閱單次最低購買數量：9 、 單次最高購買數量：16",
+        "單位":  "Cores",
+        "決標單價":  "186,831",
+        "廠牌型號":  "Red Hat OpenShift Container Platform Premium (2 Cores or 4 vCPUs ), 7x24一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "28",
+        "項次":  "40",
+        "品項名稱":  "Red Hat OpenShift Container Platform Standard (2 Cores or 4 vCPUs), 5x8一年訂閱單次最低購買數量：9 、 單次最高購買數量：16",
+        "單位":  "Cores",
+        "決標單價":  "125,453",
+        "廠牌型號":  "Red Hat OpenShift Container Platform Standard (2 Cores or 4 vCPUs), 5x8一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "29",
+        "項次":  "41",
+        "品項名稱":  "Red Hat OpenShift Container Platform with Application Foundations, Premium, (2 Cores or 4 vCPUs ), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "465,527",
+        "廠牌型號":  "Red Hat OpenShift Container Platform with Application Foundations, Premium, (2 Cores or 4 vCPUs ), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "30",
+        "項次":  "42",
+        "品項名稱":  "Red Hat OpenShift Container Platform with Application Foundations, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "311,998",
+        "廠牌型號":  "Red Hat OpenShift Container Platform with Application Foundations, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "31",
+        "項次":  "43",
+        "品項名稱":  "Red Hat OpenShift Container Platform with Runtimes, Premium, (2 Cores or 4 vCPUs), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "cores",
+        "決標單價":  "272,378",
+        "廠牌型號":  "Red Hat OpenShift Container Platform with Runtimes, Premium, (2 Cores or 4 vCPUs), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "32",
+        "項次":  "44",
+        "品項名稱":  "Red Hat OpenShift Container Platform with Runtimes, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "183,233",
+        "廠牌型號":  "Red Hat OpenShift Container Platform with Runtimes, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "33",
+        "項次":  "45",
+        "品項名稱":  "Red Hat OpenShift Platform Plus (Bare Metal Node), Premium (1-2 sockets up to 64 cores), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Sockets",
+        "決標單價":  "742,869",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus (Bare Metal Node), Premium (1-2 sockets up to 64 cores), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "34",
+        "項次":  "46",
+        "品項名稱":  "Red Hat OpenShift Platform Plus (Bare Metal Node), Standard (1-2 sockets up to 64 cores), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Sockets",
+        "決標單價":  "497,719",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus (Bare Metal Node), Standard (1-2 sockets up to 64 cores), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "35",
+        "項次":  "47",
+        "品項名稱":  "Red Hat OpenShift Platform Plus with Application Foundations, Premium (2 Cores or 4 vCPUs), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "515,053",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus with Application Foundations, Premium (2 Cores or 4 vCPUs), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "36",
+        "項次":  "48",
+        "品項名稱":  "Red Hat OpenShift Platform Plus with Application Foundations, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "344,191",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus with Application Foundations, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "37",
+        "項次":  "49",
+        "品項名稱":  "Red Hat OpenShift Platform Plus with Runtimes, Premium (2 Cores or 4 vCPUs ), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "329,332",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus with Runtimes, Premium (2 Cores or 4 vCPUs ), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "38",
+        "項次":  "50",
+        "品項名稱":  "Red Hat OpenShift Platform Plus with Runtimes, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Cores",
+        "決標單價":  "220,377",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus with Runtimes, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "39",
+        "項次":  "51",
+        "品項名稱":  "Red Hat OpenShift Platform Plus, Premium (2 Cores or 4 vCPU), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：16",
+        "單位":  "Cores",
+        "決標單價":  "269,762",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus, Premium (2 Cores or 4 vCPU), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "40",
+        "項次":  "52",
+        "品項名稱":  "Red Hat OpenStack Platform (without guest OS), Premium (2-sockets), 7x24 一年訂閱單次最低購買數量：3 、 單次最高購買數量：6",
+        "單位":  "Socket",
+        "決標單價":  "136,576",
+        "廠牌型號":  "Red Hat OpenStack Platform (without guest OS), Premium (2-sockets), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "41",
+        "項次":  "53",
+        "品項名稱":  "Red Hat OpenStack Platform, Premium (2-sockets), 7x24 一年訂閱單次最低購買數量：3 、 單次最高購買數量：6",
+        "單位":  "Socket",
+        "決標單價":  "277,660",
+        "廠牌型號":  "Red Hat OpenStack Platform, Premium (2-sockets), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "42",
+        "項次":  "54",
+        "品項名稱":  "Red Hat OpenStack Platform, Standard (2-sockets), 5x8 一年訂閱單次最低購買數量：3 、 單次最高購買數量：6",
+        "單位":  "Socket",
+        "決標單價":  "213,599",
+        "廠牌型號":  "Red Hat OpenStack Platform, Standard (2-sockets), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "43",
+        "項次":  "55",
+        "品項名稱":  "Red Hat Runtimes, Premium (2 Cores or 4 vCPUs), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：16",
+        "單位":  "Cores",
+        "決標單價":  "75,674",
+        "廠牌型號":  "Red Hat Runtimes, Premium (2 Cores or 4 vCPUs), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "44",
+        "項次":  "56",
+        "品項名稱":  "Red Hat Satellite for Unlimited Guests, 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "49,564",
+        "廠牌型號":  "Red Hat Satellite for Unlimited Guests, 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "45",
+        "項次":  "57",
+        "品項名稱":  "Red Hat Satellite, 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "Socket",
+        "決標單價":  "14,155",
+        "廠牌型號":  "Red Hat Satellite, 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "46",
+        "項次":  "66",
+        "品項名稱":  "Netask 文件管理系統-10user單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "86,363",
+        "廠牌型號":  "Netask 文件管理系統-10user",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "47",
+        "項次":  "67",
+        "品項名稱":  "Netask 線上簽核系統10U單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "39,038",
+        "廠牌型號":  "Netask 線上簽核系統10U",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "48",
+        "項次":  "74",
+        "品項名稱":  "叡揚小精靈(一年授權)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "289,181",
+        "廠牌型號":  "叡揚小精靈(一年授權)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "49",
+        "項次":  "88",
+        "品項名稱":  "TOPOO 行政E化管理平台 -- 10U授權 (支援 Android、iOS系統使用)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "43,151",
+        "廠牌型號":  "TOPOO 行政E化管理平台 -- 10U授權 (支援 Android、iOS系統使用)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "50",
+        "項次":  "1",
+        "品項名稱":  "AgilePoint NX Application Sample Templates 應用範例包-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "27,872",
+        "廠牌型號":  "AgilePoint NX Application Sample Templates 應用範例包-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "51",
+        "項次":  "2",
+        "品項名稱":  "AgilePoint NX Low-Code 自動化應用擴充(5 AgilePoint NX Low-Code Apps)-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "43,362",
+        "廠牌型號":  "AgilePoint NX Low-Code 自動化應用擴充(5 AgilePoint NX Low-Code Apps)-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "52",
+        "項次":  "3",
+        "品項名稱":  "AgilePoint NX Low-Code 自動化應用擴充(5 AgilePoint NX Low-Code Apps)(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "63,504",
+        "廠牌型號":  "AgilePoint NX Low-Code 自動化應用擴充(5 AgilePoint NX Low-Code Apps)(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "53",
+        "項次":  "4",
+        "品項名稱":  "AgilePoint NX Low-Code 表單設計工具(AgilePoint NX eForm Builder)-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "163,347",
+        "廠牌型號":  "AgilePoint NX Low-Code 表單設計工具(AgilePoint NX eForm Builder)-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "54",
+        "項次":  "5",
+        "品項名稱":  "AgilePoint NX Low-Code 表單設計工具(AgilePoint NX eForm Builder)(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "275,450",
+        "廠牌型號":  "AgilePoint NX Low-Code 表單設計工具(AgilePoint NX eForm Builder)(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "55",
+        "項次":  "6",
+        "品項名稱":  "AgilePoint NX Non-production Server 開發測試環境軟體-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "80,607",
+        "廠牌型號":  "AgilePoint NX Non-production Server 開發測試環境軟體-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "56",
+        "項次":  "7",
+        "品項名稱":  "AgilePoint NX Non-production Server 開發測試環境軟體(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "256,951",
+        "廠牌型號":  "AgilePoint NX Non-production Server 開發測試環境軟體(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "57",
+        "項次":  "8",
+        "品項名稱":  "AgilePoint NX Shared User Seats (10 shared user seats)共享式使用席次授權 (含軟體保證) (10個共享式使用席次授權)-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "46,684",
+        "廠牌型號":  "AgilePoint NX Shared User Seats (10 shared user seats)共享式使用席次授權 (含軟體保證) (10個共享式使用席次授權)-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "58",
+        "項次":  "9",
+        "品項名稱":  "AgilePoint NX Shared User Seats (10 shared user seats)共享式使用席次授權 (含軟體保證) (10個共享式使用席次授權)(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "179,853",
+        "廠牌型號":  "AgilePoint NX Shared User Seats (10 shared user seats)共享式使用席次授權 (含軟體保證) (10個共享式使用席次授權)(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "59",
+        "項次":  "10",
+        "品項名稱":  "AgilePoint NX基本套件包-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "160,162",
+        "廠牌型號":  "AgilePoint NX基本套件包-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "60",
+        "項次":  "11",
+        "品項名稱":  "AgilePoint NX基本套件包(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "378,261",
+        "廠牌型號":  "AgilePoint NX基本套件包(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "61",
+        "項次":  "12",
+        "品項名稱":  "AgilePoint NX系統 - Azure AD SSO 服務建置元件補充包( per installation Server) - 顧問服務包單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "378,261",
+        "廠牌型號":  "AgilePoint NX系統 - Azure AD SSO 服務建置元件補充包( per installation Server) - 顧問服務包",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "62",
+        "項次":  "13",
+        "品項名稱":  "AgilePoint NX系統 - WAAD 用戶組同步服務建置元件補充包- 顧問服務包單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "481,072",
+        "廠牌型號":  "AgilePoint NX系統 - WAAD 用戶組同步服務建置元件補充包- 顧問服務包",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "63",
+        "項次":  "14",
+        "品項名稱":  "AgilePoint NX系統 - 服務建置元件補充包 - 顧問服務包單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "172,669",
+        "廠牌型號":  "AgilePoint NX系統 - 服務建置元件補充包 - 顧問服務包",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "64",
+        "項次":  "15",
+        "品項名稱":  "AgilePoint System Performance Monitoring Tool 系統性能監控管理工具-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "55,925",
+        "廠牌型號":  "AgilePoint System Performance Monitoring Tool 系統性能監控管理工具-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "65",
+        "項次":  "16",
+        "品項名稱":  "AgilePoint 報表分析工具 (AgilePoint Analytics Center)-續約一年軟體保固服務單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "182,209",
+        "廠牌型號":  "AgilePoint 報表分析工具 (AgilePoint Analytics Center)-續約一年軟體保固服務",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "66",
+        "項次":  "17",
+        "品項名稱":  "AgilePoint 報表分析工具 (AgilePoint Analytics Center)(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "347,422",
+        "廠牌型號":  "AgilePoint 報表分析工具 (AgilePoint Analytics Center)(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "67",
+        "項次":  "18",
+        "品項名稱":  "網站線上協作數位內容管理系統平台單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "728,008",
+        "廠牌型號":  "網站線上協作數位內容管理系統平台",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "68",
+        "項次":  "19",
+        "品項名稱":  "網站線上協作數位內容管理系統平台-一年保固單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "97,068",
+        "廠牌型號":  "網站線上協作數位內容管理系統平台-一年保固",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "69",
+        "項次":  "20",
+        "品項名稱":  "網站線上協作數位內容管理系統平台-加值模組單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "145,602",
+        "廠牌型號":  "網站線上協作數位內容管理系統平台-加值模組",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "70",
+        "項次":  "21",
+        "品項名稱":  "網站線上協作數位內容管理系統平台-加值模組-一年保固單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "20,222",
+        "廠牌型號":  "網站線上協作數位內容管理系統平台-加值模組-一年保固",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "71",
+        "項次":  "22",
+        "品項名稱":  "Dynatrace Application Security(10,000 Annual Units)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "81,800",
+        "廠牌型號":  "Dynatrace Application Security(10,000 Annual Units)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "72",
+        "項次":  "23",
+        "品項名稱":  "Dynatrace Managed/SaaS Host Unit(16GB Per Host Unit)-三年授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "687,058",
+        "廠牌型號":  "Dynatrace Managed/SaaS Host Unit(16GB Per Host Unit)-三年授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "73",
+        "項次":  "24",
+        "品項名稱":  "Dynatrace Managed/SaaS Host Unit(16GB Per Host Unit)-兩年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "454,499",
+        "廠牌型號":  "Dynatrace Managed/SaaS Host Unit(16GB Per Host Unit)-兩年授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "74",
+        "項次":  "25",
+        "品項名稱":  "Dynatrace 加值包單次最低購買數量：1、單次最高購買數量：30",
+        "單位":  "套",
+        "決標單價":  "307,887",
+        "廠牌型號":  "Dynatrace 加值包",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "75",
+        "項次":  "26",
+        "品項名稱":  "應用系統效能管理工具 – Dynatrace 一年軟體更新維護單次最低購買數量：1、單次最高購買數量：30",
+        "單位":  "套",
+        "決標單價":  "118,200",
+        "廠牌型號":  "應用系統效能管理工具 – Dynatrace 一年軟體更新維護",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "76",
+        "項次":  "31",
+        "品項名稱":  "HyRead Kiosk行動圖書館(1套軟體,第二年起付維護費15%)單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "158,830",
+        "廠牌型號":  "HyRead Kiosk行動圖書館(1套軟體,第二年起付維護費15%)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "77",
+        "項次":  "32",
+        "品項名稱":  "HyRead Kiosk行動圖書館(1套軟體,第二年起付維護費15%)單次最低購買數量：6 、 單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "155,455",
+        "廠牌型號":  "HyRead Kiosk行動圖書館(1套軟體,第二年起付維護費15%)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "78",
+        "項次":  "37",
+        "品項名稱":  "OpenText Application Lifecycle Management Concurrent User Subscription 軟體生命週期管理(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "754,049",
+        "廠牌型號":  "OpenText Application Lifecycle Management Concurrent User Subscription 軟體生命週期管理(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "79",
+        "項次":  "38",
+        "品項名稱":  "OpenText Application Lifecycle Management Concurrent User 軟體生命週期管理 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "403,673",
+        "廠牌型號":  "OpenText Application Lifecycle Management Concurrent User 軟體生命週期管理 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "80",
+        "項次":  "39",
+        "品項名稱":  "OpenText Application Lifecycle Management Concurrent User 軟體生命週期管理(永久授權版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,831,847",
+        "廠牌型號":  "OpenText Application Lifecycle Management Concurrent User 軟體生命週期管理(永久授權版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "81",
+        "項次":  "40",
+        "品項名稱":  "OpenText Core Performance Engineering Web Virtual User (LoadRunner Cloud) 應用系統壓力測試系統 虛擬使用者小時點數SaaS版 (一年軟體授權)單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "vUser Hour",
+        "決標單價":  "546,673",
+        "廠牌型號":  "OpenText Core Performance Engineering Web Virtual User (LoadRunner Cloud) 應用系統壓力測試系統 虛擬使用者小時點數SaaS版 (一年軟體授權)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "82",
+        "項次":  "41",
+        "品項名稱":  "OpenText Core Service Virtualization (Service Virtualization) 服務虛擬化軟體單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "945,742",
+        "廠牌型號":  "OpenText Core Service Virtualization (Service Virtualization) 服務虛擬化軟體",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "83",
+        "項次":  "42",
+        "品項名稱":  "OpenText Deployment Automation Per Endpoint (上版自動化)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "99,451",
+        "廠牌型號":  "OpenText Deployment Automation Per Endpoint (上版自動化)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "84",
+        "項次":  "43",
+        "品項名稱":  "OpenText Dimensions CM Per ConCurrent (變更與組態管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "374,449",
+        "廠牌型號":  "OpenText Dimensions CM Per ConCurrent (變更與組態管理)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "85",
+        "項次":  "44",
+        "品項名稱":  "OpenText Dimensions CM Per Name User (變更與組態管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "246,873",
+        "廠牌型號":  "OpenText Dimensions CM Per Name User (變更與組態管理)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "86",
+        "項次":  "45",
+        "品項名稱":  "OpenText Dimensions RM Per ConCurrent (需求管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "360,877",
+        "廠牌型號":  "OpenText Dimensions RM Per ConCurrent (需求管理)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "87",
+        "項次":  "46",
+        "品項名稱":  "OpenText Dimensions RM Per Name User (需求管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "195,874",
+        "廠牌型號":  "OpenText Dimensions RM Per Name User (需求管理)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "88",
+        "項次":  "47",
+        "品項名稱":  "OpenText Functional Testing Concurrent User (UFT One) 自動化功能測試同時上線(永久授權版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "686,484",
+        "廠牌型號":  "OpenText Functional Testing Concurrent User (UFT One) 自動化功能測試同時上線(永久授權版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "89",
+        "項次":  "48",
+        "品項名稱":  "OpenText Functional Testing Concurrent User (UFT One) 自動化功能測試同時上線版 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "155,438",
+        "廠牌型號":  "OpenText Functional Testing Concurrent User (UFT One) 自動化功能測試同時上線版 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "90",
+        "項次":  "49",
+        "品項名稱":  "OpenText Functional Testing Concurrent User Subscription (UFT One) 自動化功能測試同時上線(一年訂閱版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "245,358",
+        "廠牌型號":  "OpenText Functional Testing Concurrent User Subscription (UFT One) 自動化功能測試同時上線(一年訂閱版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "91",
+        "項次":  "50",
+        "品項名稱":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection (Digital Lab Professional) 一台行動裝置中心與APP測試(永久授權版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "469,366",
+        "廠牌型號":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection (Digital Lab Professional) 一台行動裝置中心與APP測試(永久授權版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "92",
+        "項次":  "52",
+        "品項名稱":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection 一台行動裝置中心與APP測試(永久授權版)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "184,347",
+        "廠牌型號":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection 一台行動裝置中心與APP測試(永久授權版)一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "93",
+        "項次":  "53",
+        "品項名稱":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection 行動裝置中心與APP測試 Pro 套裝版本(永久授權版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "3,040,913",
+        "廠牌型號":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection 行動裝置中心與APP測試 Pro 套裝版本(永久授權版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "94",
+        "項次":  "54",
+        "品項名稱":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection 行動裝置中心與APP測試 Pro 套裝版本(永久授權版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "927,486",
+        "廠牌型號":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connection 行動裝置中心與APP測試 Pro 套裝版本(永久授權版) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "95",
+        "項次":  "55",
+        "品項名稱":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connections Subscription 一台行動裝置中心與APP測試(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "289,335",
+        "廠牌型號":  "OpenText Functional Testing Lab for Mobile and Web Professional Additional Mobile Device Connections Subscription 一台行動裝置中心與APP測試(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "96",
+        "項次":  "56",
+        "品項名稱":  "OpenText Operations Orchestration Concurrent Workflow Sub SW E-LTU (維運/業務流程自動化) - 1年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Concurrent",
+        "決標單價":  "549,791",
+        "廠牌型號":  "OpenText Operations Orchestration Concurrent Workflow Sub SW E-LTU (維運/業務流程自動化) - 1年訂閱授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "97",
+        "項次":  "57",
+        "品項名稱":  "OpenText Operations Orchestration Concurrent Workflow SW E-LTU (維運/業務流程自動化)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Concurrent",
+        "決標單價":  "1,233,613",
+        "廠牌型號":  "OpenText Operations Orchestration Concurrent Workflow SW E-LTU (維運/業務流程自動化)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "98",
+        "項次":  "58",
+        "品項名稱":  "OpenText Operations Orchestration Concurrent Workflow SW E-LTU (維運/業務流程自動化) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Concurrent",
+        "決標單價":  "370,001",
+        "廠牌型號":  "OpenText Operations Orchestration Concurrent Workflow SW E-LTU (維運/業務流程自動化) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "99",
+        "項次":  "59",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (一個月租賃版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "223,252",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (一個月租賃版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "100",
+        "項次":  "60",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (三個月租賃版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "366,038",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (三個月租賃版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "101",
+        "項次":  "61",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (永久授權版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,738,464",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (永久授權版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "102",
+        "項次":  "62",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (永久授權版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "434,528",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 100 Virtual User 應用系統壓力測試系統 (永久授權版) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "103",
+        "項次":  "63",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 500 Virtual User 應用系統壓力測試系統 (一個月租賃版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "640,142",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 500 Virtual User 應用系統壓力測試系統 (一個月租賃版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "104",
+        "項次":  "64",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 500 Virtual User 應用系統壓力測試系統 (三個月租賃版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,286,727",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 500 Virtual User 應用系統壓力測試系統 (三個月租賃版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "105",
+        "項次":  "65",
+        "品項名稱":  "OpenText Professional Performance Engineering (LoadRunner Professional) 應用系統壓力測試系統暨雲端特性測試服務包 (租賃服務版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "369,633",
+        "廠牌型號":  "OpenText Professional Performance Engineering (LoadRunner Professional) 應用系統壓力測試系統暨雲端特性測試服務包 (租賃服務版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "106",
+        "項次":  "66",
+        "品項名稱":  "OpenText Project and Portfolio Management 專案組合管理系統 Caual User (需求/ 時間管理帳號)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "578,829",
+        "廠牌型號":  "OpenText Project and Portfolio Management 專案組合管理系統 Caual User (需求/ 時間管理帳號)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "107",
+        "項次":  "67",
+        "品項名稱":  "OpenText Project and Portfolio Management 專案組合管理系統 Caual User (需求/ 時間管理帳號) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "128,062",
+        "廠牌型號":  "OpenText Project and Portfolio Management 專案組合管理系統 Caual User (需求/ 時間管理帳號) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "108",
+        "項次":  "68",
+        "品項名稱":  "OpenText Project and Portfolio Management 專案組合管理系統 Power User單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "979,857",
+        "廠牌型號":  "OpenText Project and Portfolio Management 專案組合管理系統 Power User",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "109",
+        "項次":  "69",
+        "品項名稱":  "OpenText Project and Portfolio Management 專案組合管理系統 Power User 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "218,425",
+        "廠牌型號":  "OpenText Project and Portfolio Management 專案組合管理系統 Power User 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "110",
+        "項次":  "70",
+        "品項名稱":  "OpenText Release Control Per ConCurrent (發行管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "443,379",
+        "廠牌型號":  "OpenText Release Control Per ConCurrent (發行管理)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "111",
+        "項次":  "71",
+        "品項名稱":  "OpenText Release Control Per Name User (發行管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "195,874",
+        "廠牌型號":  "OpenText Release Control Per Name User (發行管理)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "112",
+        "項次":  "72",
+        "品項名稱":  "OpenText Software Delivery Management Ultimate Concurrent User Subscription SaaS 敏捷開發生命週期管理同時上線(一年雲端版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "469,366",
+        "廠牌型號":  "OpenText Software Delivery Management Ultimate Concurrent User Subscription SaaS 敏捷開發生命週期管理同時上線(一年雲端版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "113",
+        "項次":  "73",
+        "品項名稱":  "OpenText Software Delivery Management Ultimate Concurrent User Subscription 敏捷開發生命週期管理同時上線(一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "837,843",
+        "廠牌型號":  "OpenText Software Delivery Management Ultimate Concurrent User Subscription 敏捷開發生命週期管理同時上線(一年訂閱)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "114",
+        "項次":  "74",
+        "品項名稱":  "OpenText Software Delivery Management Ultimate Concurrent User 敏捷開發生命週期管理 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "647,610",
+        "廠牌型號":  "OpenText Software Delivery Management Ultimate Concurrent User 敏捷開發生命週期管理 一年軟體升級及更新授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "115",
+        "項次":  "75",
+        "品項名稱":  "OpenText Software Delivery Management Ultimate Concurrent User 敏捷開發生命週期管理(永久授權版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,831,847",
+        "廠牌型號":  "OpenText Software Delivery Management Ultimate Concurrent User 敏捷開發生命週期管理(永久授權版)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "116",
+        "項次":  "76",
+        "品項名稱":  "OpenText 維護授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "192,503",
+        "廠牌型號":  "OpenText 維護授權",
+        "契約終止日期":  "115/10/29",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "117",
+        "項次":  "115",
+        "品項名稱":  "Red Hat 3scale API Management, Premium (16 Cores), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：14",
+        "單位":  "套",
+        "決標單價":  "2,154,539",
+        "廠牌型號":  "Red Hat 3scale API Management, Premium (16 Cores), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "118",
+        "項次":  "116",
+        "品項名稱":  "Red Hat 3scale API Management, Standard (16 Cores), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：14",
+        "單位":  "套",
+        "決標單價":  "1,662,912",
+        "廠牌型號":  "Red Hat 3scale API Management, Standard (16 Cores), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "119",
+        "項次":  "117",
+        "品項名稱":  "Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Premium (1-2 sockets up to 128 cores), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "129,490",
+        "廠牌型號":  "Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Premium (1-2 sockets up to 128 cores), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "120",
+        "項次":  "118",
+        "品項名稱":  "Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Standard (1-2 sockets up to 128 cores), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "86,347",
+        "廠牌型號":  "Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Standard (1-2 sockets up to 128 cores), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "121",
+        "項次":  "119",
+        "品項名稱":  "Red Hat AI Accelerator, Premium (1 Accelerator), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "64,746",
+        "廠牌型號":  "Red Hat AI Accelerator, Premium (1 Accelerator), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "122",
+        "項次":  "120",
+        "品項名稱":  "Red Hat AI Accelerator, Standard (1 Accelerator), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "43,703",
+        "廠牌型號":  "Red Hat AI Accelerator, Standard (1 Accelerator), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "123",
+        "項次":  "121",
+        "品項名稱":  "Red Hat Ansible Automation Platform, Standard (100 Managed Nodes), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "499,490",
+        "廠牌型號":  "Red Hat Ansible Automation Platform, Standard (100 Managed Nodes), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "124",
+        "項次":  "122",
+        "品項名稱":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Self-Support, 一年訂閱 (教育版全校授權,使用人數1000人以內)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,850,597",
+        "廠牌型號":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Self-Support, 一年訂閱 (教育版全校授權,使用人數1000人以內)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "125",
+        "項次":  "123",
+        "品項名稱":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Standard, 5x8 一年訂閱 (教育版全校授權,使用人數1000人以內)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,806,738",
+        "廠牌型號":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Standard, 5x8 一年訂閱 (教育版全校授權,使用人數1000人以內)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "126",
+        "項次":  "124",
+        "品項名稱":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Standard, 5x8 一年訂閱 (教育版全校授權,使用人數1500人以內)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "3,043,159",
+        "廠牌型號":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Standard, 5x8 一年訂閱 (教育版全校授權,使用人數1500人以內)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "127",
+        "項次":  "125",
+        "品項名稱":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Standard, 5x8 一年訂閱 (教育版全校授權,使用人數2000人以內)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "3,886,253",
+        "廠牌型號":  "Red Hat Enterprise Linux Academic Site Subscription with Satellite, Standard, 5x8 一年訂閱 (教育版全校授權,使用人數2000人以內)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "128",
+        "項次":  "126",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Premium, 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "200,478",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "129",
+        "項次":  "127",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Standard, 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "142,894",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters with Satellite, Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "130",
+        "項次":  "128",
+        "品項名稱":  "Red Hat Enterprise Linux for Virtual Datacenters, Standard, 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "95,686",
+        "廠牌型號":  "Red Hat Enterprise Linux for Virtual Datacenters, Standard, 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "131",
+        "項次":  "129",
+        "品項名稱":  "Red Hat Enterprise Linux Server with Satellite, Premium (Physical or Virtual Nodes), 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "63,236",
+        "廠牌型號":  "Red Hat Enterprise Linux Server with Satellite, Premium (Physical or Virtual Nodes), 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "132",
+        "項次":  "130",
+        "品項名稱":  "Red Hat Enterprise Linux Server, Standard (Physical or Virtual Nodes), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "30,452",
+        "廠牌型號":  "Red Hat Enterprise Linux Server, Standard (Physical or Virtual Nodes), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "133",
+        "項次":  "131",
+        "品項名稱":  "Red Hat Enterprise Linux Workstation, Premium, 7x24 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "19,522",
+        "廠牌型號":  "Red Hat Enterprise Linux Workstation, Premium, 7x24 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "134",
+        "項次":  "132",
+        "品項名稱":  "Red Hat OpenShift Platform Plus, Standard (2 Cores or 4 vCPU), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "156,244",
+        "廠牌型號":  "Red Hat OpenShift Platform Plus, Standard (2 Cores or 4 vCPU), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "135",
+        "項次":  "133",
+        "品項名稱":  "Red Hat Runtimes, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "51,303",
+        "廠牌型號":  "Red Hat Runtimes, Standard (2 Cores or 4 vCPUs), 5x8 一年訂閱",
+        "契約終止日期":  "115/10/29",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "136",
+        "項次":  "135",
+        "品項名稱":  "HyAI諮詢服務系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "647,017",
+        "廠牌型號":  "HyAI諮詢服務系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "137",
+        "項次":  "136",
+        "品項名稱":  "HyEIP行政資訊入口網單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,489,739",
+        "廠牌型號":  "HyEIP行政資訊入口網",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "138",
+        "項次":  "137",
+        "品項名稱":  "HyERM電子資源管理系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "313,608",
+        "廠牌型號":  "HyERM電子資源管理系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "139",
+        "項次":  "138",
+        "品項名稱":  "HyIAM行政資訊入口網-身份識別與組織管理模組單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,004,540",
+        "廠牌型號":  "HyIAM行政資訊入口網-身份識別與組織管理模組",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "140",
+        "項次":  "139",
+        "品項名稱":  "Hyint 2.0資源整合查詢系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,308,194",
+        "廠牌型號":  "Hyint 2.0資源整合查詢系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "141",
+        "項次":  "140",
+        "品項名稱":  "HyLib AI享閱推薦單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "566,127",
+        "廠牌型號":  "HyLib AI享閱推薦",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "142",
+        "項次":  "141",
+        "品項名稱":  "HyLib AI情境檢索單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "404,348",
+        "廠牌型號":  "HyLib AI情境檢索",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "143",
+        "項次":  "142",
+        "品項名稱":  "HyLib Lite圖書館自動化系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "420,738",
+        "廠牌型號":  "HyLib Lite圖書館自動化系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "144",
+        "項次":  "143",
+        "品項名稱":  "HyLib WebpacX館藏查詢系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "485,238",
+        "廠牌型號":  "HyLib WebpacX館藏查詢系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "145",
+        "項次":  "144",
+        "品項名稱":  "HYMEET 視訊會議系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,268,851",
+        "廠牌型號":  "HYMEET 視訊會議系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "146",
+        "項次":  "145",
+        "品項名稱":  "Hyproxy 2.0遠端自動認證系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "389,388",
+        "廠牌型號":  "Hyproxy 2.0遠端自動認證系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "147",
+        "項次":  "146",
+        "品項名稱":  "HySSO行政資訊入口網-單一登入模組單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,050,126",
+        "廠牌型號":  "HySSO行政資訊入口網-單一登入模組",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "148",
+        "項次":  "147",
+        "品項名稱":  "HYWEB政府網站平台 (單一網站/單顆CPU核心數授權)單次最低購買數量：1、單次最高購買數量：30",
+        "單位":  "套",
+        "決標單價":  "647,017",
+        "廠牌型號":  "HYWEB政府網站平台 (單一網站/單顆CPU核心數授權)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "149",
+        "項次":  "148",
+        "品項名稱":  "Jumper資源探索服務系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,679,621",
+        "廠牌型號":  "Jumper資源探索服務系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "150",
+        "項次":  "149",
+        "品項名稱":  "智慧空間管理平台單次最低購買數量：1、單次最高購買數量：30",
+        "單位":  "套",
+        "決標單價":  "746,177",
+        "廠牌型號":  "智慧空間管理平台",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "151",
+        "項次":  "167",
+        "品項名稱":  "Line@ 行動服務系統單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "126,869",
+        "廠牌型號":  "Line@ 行動服務系統",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "152",
+        "項次":  "168",
+        "品項名稱":  "TOPOO 行政E化管理平臺 -- 10U授權 (支援 Android、iOS系統使用)單次最低購買數量：11、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "42,182",
+        "廠牌型號":  "TOPOO 行政E化管理平臺 -- 10U授權 (支援 Android、iOS系統使用)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "153",
+        "項次":  "169",
+        "品項名稱":  "TOPOO 行政E化管理平臺 -- 10U授權 一年期維護 (支援 Android、iOS系統使用)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "7,685",
+        "廠牌型號":  "TOPOO 行政E化管理平臺 -- 10U授權 一年期維護 (支援 Android、iOS系統使用)",
+        "契約終止日期":  "115/10/29",
+        "產地":  "臺灣"
+    }
+]
